@@ -1,14 +1,14 @@
-layout_spectrum: 0.06472247536294162
-typography_spectrum: 0.864558057161048
+layout_spectrum: 0.3807348944246769
+typography_spectrum: 0.6850504945032299
 color:
-  brandStrength: 0.8133582756854594
-  lightness: 0.019333528354763985
-  saturation: 0.7957010173704475
-  rhythmicContrast: 0.4776376048102975
+  brandStrength: 0.4360750855412334
+  lightness: 0.45257517718710005
+  saturation: 0.7844303238671273
+  rhythmicContrast: 0.2861241439823061
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: Chris_ko
